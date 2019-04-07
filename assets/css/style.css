@@ -52,6 +52,16 @@ h1{
     margin-left: 20px;
 }
 
+.nav-link{
+    border-right-style: solid;
+    border-right-color: darkgrey;
+    border-right-width: 1px;
+}
+
+#noBorder{
+    border-right-width: 0px;
+}
+
 a{
     color: grey;
 }
@@ -125,10 +135,12 @@ h2{
     text-align: center;
     font-size: 18px;
     padding-top: 10px;
+    
     margin-top: 10px;
     margin-bottom: 10px;
     padding-bottom: 10px;
     height: 30px;
+    line-height: 10px;
 }
 
 input{
@@ -145,6 +157,10 @@ input{
     padding-bottom: 0.4em;
     padding-right: 0.4em;
 
+}
+
+textarea{
+    margin-left: 15px;
 }
 
 /*************** PORTFOLIO PAGE **************/
