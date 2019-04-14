@@ -1,0 +1,3 @@
+$(".hangman").on("click", function(){
+    
+});
