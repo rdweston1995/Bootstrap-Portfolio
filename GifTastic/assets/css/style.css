@@ -1,0 +1,23 @@
+button{
+    margin: 10px;
+    /*margin-left: 20px;*/
+}
+#button0{
+    margin-left:30px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+.divContainers{
+    width: 200px;
+    margin: 15px;
+    float:left;
+}
+
+.rating{
+    margin-left: 15px;
+}
